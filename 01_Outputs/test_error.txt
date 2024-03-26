@@ -1,0 +1,3 @@
+
+/mnt/home/vmulligan/GAMESS/gamess_openmp_2022_02/rungms Test_Molecule.inp 00 32 >& ./outputs/test_molecule.gamout 
++ /mnt/home/vmulligan/GAMESS/gamess_openmp_2022_02/rungms Test_Molecule.inp 00 32

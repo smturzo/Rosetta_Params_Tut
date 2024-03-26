@@ -1,0 +1,20 @@
+HETATM    1  N   HAL X   1      -3.371   2.289   1.778  1.00 20.00           N  
+HETATM    2  CA  HAL X   1      -3.551   1.886   0.398  1.00 20.00           C  
+HETATM    3  C   HAL X   1      -2.674   0.698  -0.074  1.00 20.00           C  
+HETATM    4  O   HAL X   1      -2.885   0.204  -1.188  1.00 20.00           O  
+HETATM    5  CB  HAL X   1      -5.025   1.575   0.048  1.00 20.00           C  
+HETATM    6  HA  HAL X   1      -3.251   2.718  -0.245  1.00 20.00           H  
+HETATM    7 1HB  HAL X   1      -5.049   1.098  -0.932  1.00 20.00           H  
+HETATM    8  CLG HAL X   1      -5.624   0.283   1.212  1.00 20.00          CL  
+HETATM    9  CG2 HAL X   1      -5.961   2.794   0.091  1.00 20.00           C  
+HETATM   10  BRD HAL X   1      -5.409   3.996  -1.421  1.00 20.00          BR  
+HETATM   11  H   HAL X   1      -3.756   1.679   2.495  1.00 20.00           H  
+HETATM   12 1HG2 HAL X   1      -5.786   3.386   0.992  1.00 20.00           H  
+HETATM   13  CD2 HAL X   1      -7.439   2.441  -0.047  1.00 20.00           C  
+HETATM   14 1HD2 HAL X   1      -7.731   1.808   0.792  1.00 20.00           H  
+HETATM   15 2HD2 HAL X   1      -7.669   1.916  -0.976  1.00 20.00           H  
+HETATM   16  NE  HAL X   1      -8.351   3.641   0.027  1.00 20.00           N  
+HETATM   17 1HE  HAL X   1      -9.328   3.325   0.037  1.00 20.00           H  
+HETATM   18 2HE  HAL X   1      -8.186   4.175   0.890  1.00 20.00           H  
+HETATM   19 3HE  HAL X   1      -8.247   4.280  -0.773  1.00 20.00           H  
+TER                                                                             
