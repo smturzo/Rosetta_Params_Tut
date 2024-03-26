@@ -38,3 +38,4 @@ Note: The make_rot_lib_inputs folder is where I tried to make the Rotamer Librar
       * Can be ignored for now.
 Note: Folders rosetta_py and molfile_to_params_polymer is needed to run molfile_to_params_polymer.py from this directory
 Note: For your case run molfile_to_params_polymer.py however if you have been running before.
+Note: Once you get up to here. Let me know what the next bugs through a github issue.
